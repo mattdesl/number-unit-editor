@@ -14,10 +14,12 @@ var opts = {
 }
 
 require('domready')(function() {
-	var spinner = require('number-editor')(opts)
+	var spinner = require('number-unit-editor')(opts)
     document.body.appendChild(spinner.element)
 })
 ```
+
+**Note:** Currently untested on mobile devices; PRs welcome.
 
 ## Usage
 
