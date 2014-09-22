@@ -4,10 +4,7 @@
   "description": "a number-editor with units like % and px",
   "main": "index.js",
   "license": "MIT",
-  "author": {
-    "name": "Matt DesLauriers",
-    "email": "dave.des@gmail.com"
-  },
+  "author": "Matt DesLauriers <dave.des@gmail.com>",
   "dependencies": {
     "clamp": "^1.0.1",
     "dom-value": "0.0.0",
@@ -33,5 +30,23 @@
   "homepage": "https://github.com/mattdesl/number-unit-editor",
   "bugs": {
     "url": "https://github.com/mattdesl/number-unit-editor/issues"
-  }
+  },
+  "keywords": [
+    "number",
+    "editor",
+    "number-editor",
+    "unit",
+    "edit",
+    "units",
+    "px",
+    "in",
+    "cm",
+    "%",
+    "m",
+    "pt",
+    "spinner",
+    "css",
+    "value",
+    "values"
+  ]
 }
