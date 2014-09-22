@@ -1,0 +1,37 @@
+{
+  "name": "number-unit-editor",
+  "version": "1.0.0",
+  "description": "a number-editor with units like % and px",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Matt DesLauriers",
+    "email": "dave.des@gmail.com"
+  },
+  "dependencies": {
+    "clamp": "^1.0.1",
+    "dom-value": "0.0.0",
+    "inherits": "^2.0.1",
+    "number-editor": "^1.2.0",
+    "parse-unit": "^1.0.1"
+  },
+  "devDependencies": {
+    "brfs": "^1.2.0",
+    "dom-classes": "0.0.1",
+    "domready": "^1.0.7",
+    "insert-css": "^0.2.0",
+    "tape": "~2.13.2"
+  },
+  "scripts": {
+    "test": "node test.js",
+    "demo": "beefy demo/index --open -- -t brfs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mattdesl/number-unit-editor.git"
+  },
+  "homepage": "https://github.com/mattdesl/number-unit-editor",
+  "bugs": {
+    "url": "https://github.com/mattdesl/number-unit-editor/issues"
+  }
+}
