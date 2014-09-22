@@ -43,6 +43,8 @@ A getter/setter for the number value. The returned value will be a number, but i
 console.log(spinner.value) // prints 50
 spinner.value = 25  // changes value to 25px
 spinner.value = '25' // changes value to 25 (no unit)
+spinner.value = '50px' // changes value to 25px
+
 ```
 
 #### `editor.display`
