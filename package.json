@@ -1,6 +1,6 @@
 {
   "name": "number-unit-editor",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "a number-editor with units like % and px",
   "main": "index.js",
   "license": "MIT",
